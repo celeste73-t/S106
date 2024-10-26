@@ -176,8 +176,11 @@ td{
     text-decoration: none;
 }
 
-.h2footer{
+th{
     color: #111111;
+    font-family: 'Noto Sans';
+    text-align: center;
+    text-decoration: none;
 }
 
 #hautpage{
