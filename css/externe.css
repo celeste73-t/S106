@@ -88,3 +88,100 @@ p{
     font-family: 'Noto Sans';
     color: #111111;
 }
+
+section{
+    height: 85%;
+    margin: 5%;
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    font-family: 'Noto Sans';
+    color: #111111;
+    font-size: 50px;
+    margin-left: 40px; 
+}
+
+hr{
+    width: 80%;
+    height: 2px;
+    border: 0px;
+    background-color: #111111;
+}
+
+#choose{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    height: 30%;
+    margin-top: 40px;
+}
+
+.block{
+    background-color: #CC0008;
+    width: 30%;
+    height: 100%;
+    text-decoration: none;
+}
+
+h2{
+    font-family: 'Noto Sans';
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+#porter{
+    background-color: #007CC1;
+    height: 25%;
+    text-decoration: none;
+    margin-top: 50px;
+}
+
+#pestel{
+    background-color: #007CC1;
+    height: 25%;
+    text-decoration: none;
+    margin-top: 50px;
+}
+
+footer{
+    background-color: #F5F5F5;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table{
+    width: 90%;
+    height: 90%;
+}
+
+td{
+    text-align: center;
+}
+
+.lienResaux{
+    color: #111111;
+    font-size: larger;
+    font-family: 'Noto Sans';
+    text-decoration: none;
+}
+
+th{
+    color: #111111;
+    font-family: 'Noto Sans';
+    text-align: center;
+    text-decoration: none;
+}
+
+#hautpage{
+    color: #111111;
+    font-size:smaller;
+    font-family: 'Noto Sans';
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+}
