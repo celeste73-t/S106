@@ -156,22 +156,17 @@ footer{
     background-color: #F5F5F5;
     height: 15%;
     display: flex;
-}
-
-#f1{
-    width: 50%;
-    display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
-#f2{
-    width: 50%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+table{
+    width: 90%;
+    height: 90%;
+}
+
+td{
+    text-align: center;
 }
 
 .lienResaux{
@@ -181,7 +176,7 @@ footer{
     text-decoration: none;
 }
 
-#s106{
+.h2footer{
     color: #111111;
 }
 
@@ -190,6 +185,6 @@ footer{
     font-size:smaller;
     font-family: 'Noto Sans';
     text-decoration: none;
-    text-align: start;
+    text-align: center;
     width: 100%;
 }
