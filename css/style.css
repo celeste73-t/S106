@@ -155,4 +155,41 @@ h2{
 footer{
     background-color: #F5F5F5;
     height: 15%;
+    display: flex;
+}
+
+#f1{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#f2{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.lienResaux{
+    color: #111111;
+    font-size: larger;
+    font-family: 'Noto Sans';
+    text-decoration: none;
+}
+
+#s106{
+    color: #111111;
+}
+
+#hautpage{
+    color: #111111;
+    font-size:smaller;
+    font-family: 'Noto Sans';
+    text-decoration: none;
+    text-align: start;
+    width: 100%;
 }
