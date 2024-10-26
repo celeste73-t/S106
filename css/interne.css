@@ -29,48 +29,19 @@ header{
     justify-content: space-evenly;
 }
 
-#analyse_interne{
+#bouton{
     text-decoration: none;
     text-align: center;
     padding-left: 10px;
     padding-right: 10px;
 }
 
-#analyse_interne:hover{
+#bouton:hover{
     background-color: #cccccccc;
     border-radius: 20px;
     padding-left: 10px;
     padding-right: 10px;
 }
-
-#analyse_exeterne{
-    text-decoration: none;
-    text-align: center;
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
-#analyse_exeterne:hover{
-    background-color: #cccccccc;
-    border-radius: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
-#source1{
-    text-decoration: none;
-    text-align: center;
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
-#source1:hover{
-    background-color: #cccccccc;
-    border-radius: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
 
 img{
     margin: 10px;
@@ -81,7 +52,7 @@ img{
     font-family: 'Noto Sans';
     color: #111111;
     font-size: 20px;
-    
+    text-decoration: none;
 }
 
 p{
