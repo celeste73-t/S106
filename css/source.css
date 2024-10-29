@@ -2,7 +2,7 @@ body{
     margin: 0px;
     display: flex;
     flex-direction: column;
-    height: 1600px;
+    height: 900px;
 }
 
 header{
@@ -43,11 +43,14 @@ header{
     padding-right: 10px;
 }
 
-
 img{
     margin: 10px;
 }
 
+section{
+    height: 85%;
+    margin: 5%;
+}
 
 .bouton-font{
     font-family: 'Noto Sans';
@@ -59,4 +62,63 @@ img{
 p{
     font-family: 'Noto Sans';
     color: #111111;
+}
+
+h1{
+    font-family: 'Noto Sans';
+    color: #111111;
+    font-size: 50px;
+    margin-left: 40px; 
+}
+
+
+h2{
+    font-family: 'Noto Sans';
+    color: #111111;
+}
+
+li{
+    font-family: 'Noto Sans';
+    color: #111111;
+    list-style: circle;
+}
+
+footer{
+    background-color: #F5F5F5;
+    height: 240px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table{
+    width: 90%;
+    height: 90%;
+}
+
+td{
+    text-align: center;
+}
+
+.lienResaux{
+    color: #111111;
+    font-size: larger;
+    font-family: 'Noto Sans';
+    text-decoration: none;
+}
+
+th{
+    color: #111111;
+    font-family: 'Noto Sans';
+    text-align: center;
+    text-decoration: none;
+}
+
+#hautpage{
+    color: #111111;
+    font-size:smaller;
+    font-family: 'Noto Sans';
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
 }
