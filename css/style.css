@@ -71,6 +71,11 @@ p{
     color: #111111;
 }
 
+#text{
+    width: 80%;
+    margin-left: 10%;
+}
+
 #choose{
     display: flex;
     align-items: center;
@@ -83,6 +88,10 @@ p{
     width: 48%;
     height: 100%;
     text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 h2{
@@ -90,6 +99,20 @@ h2{
     text-align: center;
     color: white;
     text-decoration: none;
+}
+
+#img1{
+    background-image: url("/img/2.png");
+    width: 95%;
+    height: 95%;
+    margin: 10px;
+}
+
+#img2{
+    background-image: url("/img/1.png") ;
+    width: 95%;
+    height: 95%;
+    margin: 10px;
 }
 
 #plus_info{
