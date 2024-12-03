@@ -96,6 +96,10 @@ hr{
     text-decoration: none;
 }
 
+.block:hover{
+    box-shadow: 10px 10px 5px #888888;
+}
+
 #img1{
     background-image: url("../img/3.png");
     width: 95%;
@@ -124,18 +128,15 @@ h2{
     text-decoration: none;
 }
 
-#rse{
+.block2{
     background-color: #007CC1;
     height: 25%;
     text-decoration: none;
     margin-top: 50px;
 }
 
-#swot{
-    background-color: #007CC1;
-    height: 25%;
-    text-decoration: none;
-    margin-top: 50px;
+.block2:hover{
+    box-shadow: 10px 10px 5px #888888;
 }
 
 footer{
