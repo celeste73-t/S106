@@ -97,21 +97,21 @@ hr{
 }
 
 #img1{
-    background-image: url("/img/3.png");
+    background-image: url("../img/3.png");
     width: 95%;
     height: 75%;
     margin: 10px;
 }
 
 #img2{
-    background-image: url("/img/4.png");
+    background-image: url("../img/4.png");
     width: 95%;
     height: 75%;
     margin: 10px;
 }
 
 #img3{
-    background-image: url("/img/5.png");
+    background-image: url("../img/5.png");
     width: 95%;
     height: 75%;
     margin: 10px;
